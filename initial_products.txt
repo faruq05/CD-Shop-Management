@@ -1,0 +1,11 @@
+1,Submarine,10.0,Music,99,2011,Alex Turner
+2,The Godfather,15.0,Movie,80,1972,Francis Ford Coppola
+3,Read Dead Redemption,20.0,Game,50,2018,Rockstar
+4,Rust In Peace,12.5,Music,44,1999,Megadeath
+5,Leon the Professional,18.0,Movie,30,1994,Luc Besson
+6,God of War,25.0,Game,120,2018,JavaGround
+7,AM,9.5,Music,85,2013,Arctic Monkeys
+8,Good Will Hunting,14.0,Movie,32,1997,Gus Van Sant
+9,Abbey Road,20.5,Music,9,1969,The Beatles
+52,Intersteller,10.0,Movie,60,2019,Nolan
+20,Assassins creed,25.0,Game,55,2010,Ubisoft
